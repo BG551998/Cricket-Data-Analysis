@@ -1,2 +1,2 @@
 # Cricket-Data-Analysis
-This Repository contains the All-time ODI Cricket analysis  using Power BI
+This Repository contains the All-time ODI Cricket Data analysis using Power BI
